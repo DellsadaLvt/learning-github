@@ -1,0 +1,17 @@
+// learn git
+<h2> anh tho dep trai </h2>
+/*
+the commands:
+- git init
+- git status
+- git add + ten file kem  theo duoi
+- git commit -m " comments"
+- git log
+echo "# learning-github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DellsadaLvt/learning-github.git
+git push -u origin main
+*/
