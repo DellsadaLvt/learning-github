@@ -20,3 +20,11 @@ Branch:
 - git branch <name-branch>
 - git checkout <name-branch> -> work in the <name branch>
 - git branch -> see the branch
+<<<<<<< HEAD
+=======
+- git checkout -b name-branch
+
+Merge:
+- git merge < branch name > 
+
+>>>>>>> Git-Commands
