@@ -25,3 +25,4 @@ Branch:
 Merge:
 - git merge < branch name > 
 // My English will better and I can use it.
+// pull request
