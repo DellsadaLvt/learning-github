@@ -22,3 +22,6 @@ Branch:
 - git branch -> see the branch
 - git checkout -b name-branch
 
+Merge:
+- git merge < branch name > 
+
